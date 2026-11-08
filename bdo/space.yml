@@ -1,0 +1,5 @@
+title: Black Desert
+template: game
+color: '#b23a48'
+# Gallery sections, in the order the dashboard shows them. Media can also use a section that isn't listed here.
+# sections: [guides, maps, builds]
