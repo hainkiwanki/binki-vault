@@ -1,6 +1,6 @@
 title: Binki
 template: project
-# Read-only in Vault once the project template arrives (phase 5).
+# Shown read-only under Code (Vault reads it with VAULT_CODE_GITHUB_TOKEN).
 repo: hainkiwanki/binki
 context: |
     The binki monorepo: the API, Home, Shelf, Vault, Plex, the ingest extension and the shared packages.

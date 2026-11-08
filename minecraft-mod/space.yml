@@ -1,0 +1,7 @@
+title: Minecraft mod
+template: project
+color: '#6aa84f'
+# The mod's code repo, shown read-only under Code. Fill in owner/name once it's on GitHub.
+# repo: hainkiwanki/minecraft-mod
+context: |
+    Design docs for the Minecraft mod: overview, combat and the other systems. Moved over from the Google Doc.

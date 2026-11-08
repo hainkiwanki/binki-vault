@@ -49,6 +49,10 @@ Blocks use directive syntax. A broken block shows what's wrong with it instead o
 
 Guides start as drafts in Vault: from **Add guide from URL** on a space, the binki extension's **Guide** button (use that one for sites with bot protection), or **Keep in Vault** in Shelf. Review the draft and click **Promote**: it lands in `<space>/guides/` with `source` and `fetched` in the frontmatter. Images stay in Vault as `media:<id>`. **Re-fetch** on a promoted guide opens a pull request from a `guides/…-refetch-…` branch, so your edits are never overwritten.
 
+## Projects
+
+A `project` space has three tabs: **Docs** (its notes here), **Code** (the repo in `repo:` of its `space.yml`, read-only: browse the files, docs render, code is highlighted) and **References** (links and images). The repo's markdown files are searchable with Ctrl+K. Vault never writes to a code repo.
+
 ## Lists
 
 A `collection` space (`wishlist/`) and a `commands` space (`server-commands/`) only have their `space.yml` here, plus any notes you add; the items themselves live in Vault's database. Pasting a shop link in the wishlist reads its title, price and image. Commands can hold `{{name}}` parts that you fill in on the page before copying.
