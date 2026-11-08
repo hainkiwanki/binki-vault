@@ -45,3 +45,7 @@ Finally is **__Krogdalo's Trace__ (Krogdalo's Trace node manager)**, who can exc
 ## Atanis' Element
 
 Atanis Element is an exchangable item that can be exchanged for pity pieces of any infinite potion at a 1 to 1 ratio.
+
+:::sticky
+![{E6D34724-1365-47B5-B7C9-9969EC925FA6}](media:c69112d5-d344-4fd4-b023-94da7a949533)
+:::
