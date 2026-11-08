@@ -6,9 +6,6 @@ Four specialist reviewers looked at the monorepo independently: a **TypeScript E
 
 > **Deployment context:** Binki runs only on a home server and is reachable only through a WireGuard tunnel. Security severities are rated for that setup. Where a rating would change if the app were ever exposed publicly (for example through a Cloudflare Tunnel), the finding says so.
 
-Some edit
-![{B9A54AF8-117D-4204-9ED9-702E5F9CE1D8}](media:462004cc-29cf-4582-ab76-7655c7631642)
-
 ---
 
 ## Table of Contents
