@@ -14,10 +14,36 @@ The content behind Vault, binki's knowledge app. Vault reads this repo, so whate
 ```yaml
 title: Terraria
 template: game # game | project | notes | collection | commands
-color: '#6aa84f'
+color: "#6aa84f"
 sections: [bosses, crafting]
 ```
 
 If a `space.yml` is invalid, Vault still lists the space and says what's wrong with it.
+
+## Writing notes
+
+Notes are plain markdown with GitHub extras (tables, task lists, ~~strikethrough~~). Frontmatter is optional:
+
+```md
+---
+title: Boss progression
+tags: [bosses, progression]
+---
+```
+
+- Link other notes with relative paths: `[Drops](../notes/drops.md#rare)`. A path starting with `/` starts at the repo root.
+- Small images that belong to a note go in `assets/` next to it: `![Map](assets/map.png)`.
+- Uploaded media is linked by its permanent ID: `![Screenshot](media:<id>)`. Vault's editor inserts these when you paste.
+
+Blocks use directive syntax. A broken block shows what's wrong with it instead of disappearing.
+
+| Block       | Write                                                                        |
+| ----------- | ---------------------------------------------------------------------------- |
+| Callout     | `:::tip` … `:::` (also `note`, `warning`); title: `:::tip[Before you start]` |
+| Collapsible | `:::details{summary="Drops"}` … `:::`                                        |
+| Tabs        | `::::tabs`, with `:::tab{title="Melee"}` … `:::` inside, then `::::`         |
+| Gallery     | `::gallery{images="assets/a.png, media:<id>"}`                               |
+
+Edits made on the site are committed to `main` by **Vault**, with you as the author and an `Edited-via: vault-site` trailer. `git log --grep "Edited-via"` lists them.
 
 Images and videos uploaded in Vault live in RustFS, not here. Favorites, the wishlist and the command list live in Vault's database.
