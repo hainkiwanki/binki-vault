@@ -37,12 +37,17 @@ tags: [bosses, progression]
 
 Blocks use directive syntax. A broken block shows what's wrong with it instead of disappearing.
 
-| Block       | Write                                                                        |
-| ----------- | ---------------------------------------------------------------------------- |
-| Callout     | `:::tip` … `:::` (also `note`, `warning`); title: `:::tip[Before you start]` |
-| Collapsible | `:::details{summary="Drops"}` … `:::`                                        |
-| Tabs        | `::::tabs`, with `:::tab{title="Melee"}` … `:::` inside, then `::::`         |
-| Gallery     | `::gallery{images="assets/a.png, media:<id>"}`                               |
+| Block       | Write                                                                                  |
+| ----------- | -------------------------------------------------------------------------------------- |
+| Callout     | `:::tip` … `:::` (also `note`, `warning`); title: `:::tip[Before you start]`           |
+| Collapsible | `:::details{summary="Drops"}` … `:::`                                                  |
+| Tabs        | `::::tabs`, with `:::tab{title="Melee"}` … `:::` inside, then `::::`                   |
+| Gallery     | `::gallery{images="assets/a.png, media:<id>"}`                                         |
+| Sticky note | `:::sticky[Ominous Altar]` … `:::`; in the editor, Ctrl+Shift+S wraps the current line |
+
+## Guides
+
+Guides start as drafts in Vault: from **Add guide from URL** on a space, the binki extension's **Guide** button (use that one for sites with bot protection), or **Keep in Vault** in Shelf. Review the draft and click **Promote**: it lands in `<space>/guides/` with `source` and `fetched` in the frontmatter. Images stay in Vault as `media:<id>`. **Re-fetch** on a promoted guide opens a pull request from a `guides/…-refetch-…` branch, so your edits are never overwritten.
 
 Edits made on the site are committed to `main` by **Vault**, with you as the author and an `Edited-via: vault-site` trailer. `git log --grep "Edited-via"` lists them.
 
