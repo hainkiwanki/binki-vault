@@ -1,5 +1,7 @@
 title: Idleon
 template: game
 color: '#e8a33d'
+icon: icon.png
+
 # Gallery sections, in the order the dashboard shows them. Media can also use a section that isn't listed here.
 # sections: [guides, maps, builds]
