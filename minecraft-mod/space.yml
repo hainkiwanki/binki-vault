@@ -4,4 +4,5 @@ color: '#6aa84f'
 # The mod's code repo, shown read-only under Code.
 repo: hainkiwanki/GeneticsMod
 context: |
-    Design docs for the Minecraft mod: overview, combat and the other systems. Moved over from the Google Doc.
+  Design docs for the Minecraft mod: overview, combat and the other systems. Moved over from the Google Doc.
+icon: icon.png
