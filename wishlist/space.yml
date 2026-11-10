@@ -2,4 +2,5 @@ title: Wishlist
 template: collection
 color: '#e0a526'
 context: |
-    Things I want to buy. The items live in Vault's database, not in this repo; notes about them can go here.
+  Things I want to buy. The items live in Vault's database, not in this repo; notes about them can go here.
+icon: icon.png
