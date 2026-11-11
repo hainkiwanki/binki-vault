@@ -1,5 +1,5 @@
 title: Server
 template: notes
 context: |
-    The homelab server: Docker containers, the binki stack, WireGuard, and notes for working on it over SSH.
+  The homelab server: Docker containers, the binki stack, WireGuard, and notes for working on it over SSH.
 icon: icon.png
