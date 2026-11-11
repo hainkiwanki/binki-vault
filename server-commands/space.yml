@@ -4,3 +4,4 @@ color: '#4f9bd9'
 context: |
     Commands for the homelab server (Docker, ZFS, WireGuard, the binki stack). The snippets live in Vault's database;
     write {{name}} for a part to fill in before copying.
+icon: icon.png

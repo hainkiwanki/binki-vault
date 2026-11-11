@@ -4,3 +4,4 @@ template: project
 repo: hainkiwanki/binki
 context: |
     The binki monorepo: the API, Home, Shelf, Vault, Plex, the ingest extension and the shared packages.
+icon: icon.webp
