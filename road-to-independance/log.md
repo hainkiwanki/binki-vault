@@ -117,3 +117,4 @@ Source: https://bel.mofa.go.kr/be-en/brd/m_28171/view.do?seq=18&page=1 (Embassy 
 ## FOD Financien message SENT 16 Nov 2026 (topic: btw; vragen 1-3)
 - Still to send: second message, topic "Personenbelasting", vragen 4-7 (aangifte, kosten, boekhouding, DAC7)
 - Reply date/wording: ____ ; chase after 7-10 working days (~27 Nov)
+- 16 Nov: FOD form with topic "Personenbelasting" requires an ondernemingsnummer (btw form did not). Questions 4-7 (aangifte, kosten, boekhouding, DAC7) waiting: send via "Andere informatie" topic, or after registration.
