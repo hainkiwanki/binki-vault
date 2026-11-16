@@ -9,7 +9,7 @@
 - Debt: 0
 - Hours: 16/week (9 product, 6 content, 1 review); Wednesday evening free
 - Publishing: comfortable with anything (face/voice OK)
-- Proposed caps (not frozen): product EUR 150, content EUR 100; accountant budgeted separately
+- Proposed caps (not frozen): EUR 150 total = product EUR 50 / content EUR 100 (see Decisions 15 Nov); paid accountant not used, free advice route instead
 
 ## Idea log
 | Date | Idea | Audience | Evidence | Next test | Hours | Spend | Result |
@@ -34,7 +34,7 @@
 |---|---|---|---|
 | Digital nomad / Workation (F-1-D), from memory, UNVERIFIED | candidate | self-employed accepted? income minimum + definition, stay length/extension, history, whose name, insurance, Korean clients | MOJ page + embassy BE, to read |
 | Overseas business-owner route | candidate | name of route, income/history, structure | embassy BE, to ask |
-- Email to Korean embassy in Belgium: drafted 15 Nov, send 16 Nov. Reply date/wording: ____
+- Email to Korean embassy in Belgium: SENT 15 Nov. Reply date/wording: ____ (follow up 22 Nov if silent)
 - Do not rely on "three-year stay" headline until confirmed.
 
 ## Belgium registration/tax (research 15 Nov, from blogs, NOT official)
@@ -46,7 +46,7 @@
 - Plan rule still applies: advice obtained before first payment
 
 ## Next actions
-- 16 Nov: send embassy email; read employment contract; contact social insurance fund
+- 16 Nov: (embassy email already sent 15 Nov); read employment contract; contact social insurance fund
 - 16-17 Nov: template niche research (reachable buyer group, competitor complaints)
 
 ## Product niche research (15 Nov) - DECISION
