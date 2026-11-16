@@ -1,5 +1,3 @@
-# log
-
 # Independence log (plan start: 15 Nov 2026)
 
 ## Constraints (estimates, to be verified through November)
