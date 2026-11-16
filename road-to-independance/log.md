@@ -93,3 +93,27 @@
 - Content candidate B: AI character (adult fictional student learning Korean; 2 short vertical posts/week; labelled as AI; audience = students/K-culture fans; payment route = planner). STILL UP FOR DEBATE; replaceable by another original faceless theme (e.g. public-domain horror narration) before 21 Nov.
 - Rejected: scraping/reposting trending videos (copyright/reused-content)
 - 18-19 Nov: one rough sample per content format, time each (target <=2.5h)
+## Embassy reply + official F-1-D page (read 16 Nov 2026)
+Source: https://bel.mofa.go.kr/be-en/brd/m_28171/view.do?seq=18&page=1 (Embassy of Korea in Belgium, "Workation (Digital Nomad) F-1-D", written/modified 2026-09-30; Korean version is official). Content summarised via fetch agent, verify on the page.
+- Embassy email reply (16 Nov): F-1-D is open to employees of foreign companies AND self-employed individuals and business owners; refers to the web page. Did NOT answer income, history, whose-name, current-salary or structure questions.
+- Eligibility on page: over 18; overseas business owner OR employee of foreign company (Korean-company employees ineligible); can work remotely; >1 year in the same industry. "Freelancers are not eligible" (conflict with email wording? -> ASK what counts as freelancer vs business owner)
+- Min annual income (before tax): age 18-34: KRW 78,624,000 (Seoul/Incheon/Gyeonggi) or 52,416,000 (reduced-threshold regions); age 35+: KRW 104,832,000 (capital region) or 78,624,000 (reduced regions). With dependants the 35+ threshold applies. (EUR equivalent: convert at current rate, rough guess EUR 30-70k/yr depending on age/region; CHECK RATE)
+- Evidence: 12 months of pay-slips (no business-owner income evidence described -> ASK); employment certificate showing 1 year same industry + remote ability; 3 months bank statements in own name; criminal record (Belgian, apostille, <6 months); insurance in English min EUR 70,000 for 1 year; passport, photo, form 17; may request more.
+- Stay: 1 year, extendable by up to 1 year (so 2 years total, NOT the 3-year headline). Register within 90 days if >91 days.
+- Employment inside Korea strictly restricted. Korean clients: not stated.
+- Not stated: processing time, application method, translation, income evidence for business owners.
+- OPEN QUESTIONS for follow-up to embassy: (1) Is a Belgian sole proprietor ("zelfstandige in bijberoep") a business owner or a freelancer? Is a company (BV) required? (2) What documents prove business-owner income instead of pay-slips? (3) Is income counted as personal income or company profit, and over which period? (4) Is the 1-year same-industry experience met by self-employed activity, and how documented? (5) Does current salary count toward the income threshold? (6) Can the income be below threshold if savings are shown?
+- Planning impact: threshold is likely far above the earlier EUR 5,000/month target for the younger/regional case, similar for older/capital case; structure may need to produce documentable income, possibly a company paying a salary. Do not form a company until the embassy answers (plan rule: lightest compliant structure).
+- Age and target region (Seoul/Gyeonggi vs reduced-threshold region) change the threshold a lot: decide in November worksheet.
+
+## FOD Financien email: drafted 16 Nov (Dutch), send after registering or before first sale. Reply: ____
+
+## Embassy follow-up SENT 16 Nov 2026
+- Question: is a Belgian sole proprietorship ("zelfstandige in bijberoep") selling digital products worldwide a business owner or a freelancer under F-1-D? Is a BV required?
+- Wording note: email said "I operate" although registration was not yet done (planned). Clarify in the next message if needed.
+- Reply date/wording: ____ ; follow up 23 Nov if silent
+- Other open questions NOT yet asked: income evidence for business owners (no pay-slips), personal income vs company profit, savings substitution, 1-year same-industry proof
+
+## FOD Financien message SENT 16 Nov 2026 (topic: btw; vragen 1-3)
+- Still to send: second message, topic "Personenbelasting", vragen 4-7 (aangifte, kosten, boekhouding, DAC7)
+- Reply date/wording: ____ ; chase after 7-10 working days (~27 Nov)
