@@ -1,77 +1,81 @@
 # Independence log (plan start: 15 Nov 2026)
 
-Last cleaned: 16 Nov 2026. Newest status first in "Now"; details below by track.
+Last cleaned: 18 Nov 2026. One section per day, newest first. Choices made that day are listed under each day; the full picture of choices, research and summaries is in [choices-and-research.md](choices-and-research.md).
 
-## Now (16 Nov)
-**Tonight (after work):** Etsy by hand, Reddit by hand, sketch planner; bring results back.
-**Waiting on:** embassy reply (follow-up 23 Nov), FOD btw reply (chase ~27 Nov).
-**Upcoming:** 18-19 Nov rough samples (planner + each content format, time them) | 20-21 Nov gates + freeze scorecards | 30 Nov financial worksheet.
-**Open decision:** registration timing (see Belgium section). User plans to register AFTER first sale; Claude flagged this conflicts with plan rule and Belgian rules (unverified). Unresolved.
+## Now
+- **Next:** first logistics outreach emails (tracker in logistics-outreach.md); finalize offer-draft.md; plan the idle-game prototype.
+- **Waiting on:** embassy reply (follow-up 23 Nov), FOD btw reply (chase about 27 Nov).
+- **Open decisions:** income target (EUR 2,000 or 5,000/month); registration timing; idle-game scope and hours.
 
-## Constraints (estimates, verify through November)
-- Take-home ~EUR 2,000/month; saves ~EUR 1,000/month
-- Listed spend: food 300, subscriptions 100, personal 200; ~EUR 400/month unaccounted (track in November)
-- Housing: lives with parents (EUR 0); possibly EUR 250/month from 2027. Car: work lease + fuel card
-- Cash 15 Nov: EUR 1,700 savings + EUR 1,096.42 debit. Debt: 0
-- Hours: 16/week (9 product, 6 content, 1 review); Wednesday evening free
-- Publishing: comfortable with anything (face/voice OK)
-- Experiment budget (proposed, freezes 21 Nov): EUR 150 total = product 50 / content 100. Check which tools the EUR 100/month subscriptions already cover.
-- Paid accountant not used; free advice route instead
+### Deadlines by track (proposed 18 Nov, dates not yet confirmed by the user)
+**Shared:** 20-21 Nov gates and frozen scorecards (logistics, websites and the game as candidates, provisional where evidence is missing) | 23 Nov embassy follow-up (side track) | about 27 Nov FOD btw chase | 30 Nov financial worksheet.
 
-## Decisions so far
-- **Product (single candidate):** Korean/TOPIK Notion planner, optional Google Sheets file. Tiers: EUR 5 simple / EUR 10 full. Binki premium features parked (long-term); B2B/big-company idea parked for 2027 (long purchase cycle, possible employment conflict). Fixed-package service only as explicit funding bridge.
-- **Content A:** Korean-learning journey (own face/voice).
-- **Content B (still debatable):** AI character (adult fictional student learning Korean; 2 short vertical posts/week; labelled as AI; audience students/K-culture fans; payment route = planner). Fallback: public-domain horror narration. Choose winner 20-21 Nov.
-- **Rejected:** scraping/reposting trending videos (copyright/reused-content policy).
-- Contract check: side activity is allowed (user, 16 Nov); no boss check needed.
+**Logistics / income track (the floor)**
+- 18 Nov: first 5-10 emails sent; ask parents for names.
+- 21 Nov: about 20 sent in total (before the freeze if possible).
+- 25 Nov: one follow-up to non-repliers.
+- 30 Nov: about 30-40 sent; goal 3 replies or conversations.
+- 7 Dec: checkpoint. Has any problem been named by 3 people? If yes, scope a first fixed-price job or small product. If fewer than 3 replies so far, change channel or wedge.
+- 14 Dec: hard decision: continue the wedge or switch (websites with care plan, other industry).
+- Before the first invoice: registration done.
 
-## Product research
-Gate scores (access / demand, 1-5):
-| Niche | Access | Demand | Evidence |
-|---|---|---|---|
-| Korean learners (TOPIK/Korean planner) | 4 | 3 | Gumroad Korean planner 133 ratings 4.9, ~1,975 downloads; language trackers EUR 6-12; TOPIK-specific planners exist but none rated (Etsy, seen by user); possible gap unverified |
-| Notion study/language users (general) | 2 | 3 | many cheap planners USD 0-30 |
-| Freelancers/creators | 2 | 2 | generic saturated, avg Etsy sale USD 5-15 |
-| Beauty/wellness personal | 1-2 | 4 | crowded, <USD 10, no known audience |
-| Makeup artists / salons | 2 | 3 | possible gap, unproven, no reachable buyers |
-- Observations: most planners female-oriented, male audience underserved (hypothesis). Free competitors: SeoulStart TOPIK plan tool, TOPIK Note app, free Notion trackers. Complaint to design against: "too complex to set up".
-- Feature hook (hypothesis): mock-test score tracking + weak-area stats + 12-week plan.
-- Draft outline: Simple EUR 5 = study log, exam countdown, vocab tracker by level. Full EUR 10 = + mock-test log, weak-area stats, 12-week plan, weekly review. First sample (18-19 Nov): Simple + mock-test log. Build Notion first; Sheets only if time inside 18h cap (est. 10-14h for first version).
-- TODO (tonight): Etsy "TOPIK planner" / "Korean study planner" (price, review count, lowest-rated complaints); Reddit r/Korean, r/languagelearning, r/Notion (read only; check self-promo rules). Etsy blocks automated browsing (403): by hand.
-- Demand stays 3 until Etsy/Reddit show paid-tracker demand.
+**Idle game track (the experiment)**
+- 20-21 Nov: decide hours cap and theme order (warehouse first or homelab first). Proposed cap: at most 8 h/week, so at least 6 h/week stay for outreach and the offer.
+- 22-23 Nov: write the engine and first-hour design notes (no code yet).
+- 24 Nov to 14 Dec: build the prototype (about 3 weeks).
+- 15-16 Dec: publish to a browser-game portal or itch.io.
+- 23 Dec: day-7 retention check.
+- 31 Dec: stop or continue decision (stop rule: continue only if players come back on day 7).
 
-### Google Trends (15 Nov, worldwide, 12 months; relative 0-100, not volume)
-- "TOPIK": steady 40-100 all year, spikes around exam dates; audience exists
-- "Korean Language": fell from ~87 (spring) to ~25 now; check 5-year view for seasonality
-- "TOPIK Exam" is the real phrase; "TOPIK Prep"/"TOPIK Study Plan"/"Korean study planner" ~0 on Google -> buyers will not come via Google search; use Etsy/Pinterest/content
-- "TOPIK Mock": small (~5-20) but steady
-- Top regions: Indonesia, Hungary, Turkiye, Poland, Timor-Leste (TOPIK); Sri Lanka, Cambodia, Singapore, Azerbaijan, Hong Kong ("TOPIK Exam"); rankings by share, small markets
+## 18 Nov
+**Did**
+- Removed the Etsy Korean planner idea and all its research from the log.
+- Restructured the log by day; moved choices and research into choices-and-research.md.
 
-## Immigration ledger (Korea, F-1-D Workation / digital nomad)
-Source: https://bel.mofa.go.kr/be-en/brd/m_28171/view.do?seq=18&page=1 (Embassy of Korea in Belgium; written/modified 2026-09-30; Korean version official). Summarised by fetch agent: verify on the page.
-- **Embassy reply (16 Nov):** F-1-D open to employees of foreign companies AND self-employed individuals and business owners; pointed to the web page. Did not answer income/history/whose-name/structure.
-- **Eligibility on page:** over 18; overseas business owner or employee of foreign company (Korean-company employees ineligible); can work remotely; >1 year in same industry. "Freelancers are not eligible" (conflicts with email wording).
-- **Min annual income (before tax):** age 18-34: KRW 78,624,000 (Seoul/Incheon/Gyeonggi) / 52,416,000 (reduced-threshold regions); age 35+: KRW 104,832,000 / 78,624,000. With dependants the 35+ threshold applies. Rough EUR 30-70k/yr: convert at current rate.
-- **Evidence:** 12 months pay-slips (nothing stated for business owners); employment certificate (1 year same industry, remote ability); 3 months bank statements in own name; Belgian criminal record with apostille (<6 months); English insurance min EUR 70,000 for 1 year; passport, photo, form 17.
-- **Stay:** 1 year + extension up to 1 year = 2 years total (NOT the 3-year headline). Register within 90 days if >91 days. Employment inside Korea strictly restricted; Korean clients not stated.
-- **Not stated:** processing time, application method, translation, business-owner income evidence.
-- **Follow-up SENT 16 Nov:** is a Belgian sole proprietorship ("zelfstandige in bijberoep") selling digital products worldwide a business owner or a freelancer? Is a BV required? (Wording said "I operate" though not yet registered; clarify if asked.) Reply: ____ ; follow up 23 Nov.
-- **Still to ask after reply:** income evidence without pay-slips; personal income vs company profit; savings substituting; proof of 1 year same industry; whether current salary counts.
-- **Planning impact:** threshold likely far above the EUR 5,000/month target for older/capital case; structure may need to produce documentable income (possibly a company paying salary). No company until embassy answers (lightest compliant structure rule). Age and target region change the threshold a lot: decide in worksheet.
+**Choices**
+- Etsy planner and Korean content tracks: dropped (very low activity, very low income).
 
-## Belgium registration and tax (research from blogs, NOT official)
-- Ongoing sales = business activity -> CBE registration regardless of amount
-- EUR 1,922.16/yr (2026) = social-contribution floor for side activity, not a registration threshold
-- VAT threshold: sources conflict (EUR 25,000 exemption vs register regardless) -> verify
-- Plan: register as "zelfstandige in bijberoep" online via a registration service (helps with these questions, per user; cost/scope unverified). Ask them: fees, first contributions before any income, when invoicing is allowed, what advice they give, switching to BV later.
-- **Registration timing (open):** user intends to register after first sale. Plan rule says registration/invoicing must be ready before taking money; Belgian rules likely require registration before ongoing sales; platforms report payouts (DAC7). Treat payment as BLOCKED until registered; non-binding buyer commitments are allowed meanwhile. Ask the service: may I sell before registration is complete?
-- **FOD Financien:** btw message SENT 16 Nov (questions 1-3: btw number/threshold, EU/non-EU digital products VAT, platform VAT and invoices). Reply: ____ ; chase ~27 Nov. "Personenbelasting" form requires an ondernemingsnummer, so questions 4-7 (aangifte, deductible costs, bookkeeping, DAC7) NOT sent: try "Andere informatie" or ask the registration service.
+## 17 Nov
+**Did**
+- Checked Etsy by hand (planners and Korean printables). Result: planners show no proven sales, only cheap beginner printables sell, at EUR 1.44-6.89. Idea dropped on 18 Nov.
+- Pasted the r/selfhosted rules (summary in choices doc).
+- Worked out age and Korea visa impact: user is 31, 18-34 bracket applies; documenting income is the real obstacle.
+- Brainstormed from the user's own skills and logistics background; assessed the website route, ad-funded apps, the check-in app idea from dad, the idle game and the MMO.
+- Wrote logistics-outreach.md (English and Dutch email, question list, tracker) and offer-draft.md.
 
-## Plan tracks
-- Financial worksheet: due 30 Nov
-- Immigration ledger: above
-- Tax/structure advice: before first payment
-- Scorecards frozen: 21 Nov
+**Choices**
+- Korean product is the wrong part: too little money, not interesting enough. Korean tracks put on hold (dropped 18 Nov).
+- Ladder first proposed: dev work, then kits, then paid tool. Then revised: kits too low-money, so fixed-price dev work for businesses is the main engine and products come later.
+- Wedge to test: warehouse and logistics SMEs (documents and orders first, niche software on top). 10 discovery conversations before pricing.
+- Do not approach RealityMatters clients and do not reuse confidential knowledge from that job.
+- Outreach by email and LinkedIn only; no walk-ins or cold calls.
+- Websites: entry offer only, with a care plan; EUR 500 simple sites; change requests automated into pull requests; Dutch, French, English.
+- Parked: compliance automation, hosted tools, military and medical, check-in app, MMO.
+- Idle/incremental game: the most interesting option; keep as a time-boxed prototype with a stop rule next to an income floor. Ad-funded apps: side experiment only.
+- CHOSEN (18 Nov): the idle game's theme is warehouse and/or homelab (dev-studio kept as a later reskin). Chosen only: no design or code started, location and stack undecided (suggestion: own folder next to binki, Vue 3 + TypeScript + Vite).
+- Employer allows side activity (conflict check done).
+
+## 16 Nov
+**Did**
+- Embassy of Korea replied: F-1-D is open to employees of foreign companies and self-employed individuals and business owners; did not answer income or structure.
+- Sent embassy follow-up (sole proprietorship vs freelancer, BV needed?). Follow up 23 Nov.
+- Sent FOD Financien btw message (questions 1-3). Chase about 27 Nov.
+- Cleaned the log.
+
+**Choices**
+- Side activity allowed by employer; no boss check needed.
+- Plan to register as "zelfstandige in bijberoep" via an online registration service.
+- Registration timing: user intended to register after the first sale; flagged as conflicting with the plan rule and Belgian rules. Unresolved.
+
+## 15 Nov (plan start)
+**Did**
+- Set constraints: take-home about EUR 2,000/month, 16 hours/week, cash EUR 1,700 savings + EUR 1,096.42 debit, no debt.
+- Looked at Google Trends and product ideas for a Korean/TOPIK planner.
+
+**Choices**
+- Chose a Korean/TOPIK planner plus two content tracks as the first candidate (dropped 18 Nov).
+- Rejected scraping and reposting trending videos (copyright and reused-content policy).
+- Parked Binki premium features and big-company B2B.
 
 ## Weekly review
 (copy template from plan each week)
@@ -79,8 +83,13 @@ Source: https://bel.mofa.go.kr/be-en/brd/m_28171/view.do?seq=18&page=1 (Embassy 
 ## Idea log
 | Date | Idea | Audience | Evidence | Next test | Hours | Spend | Result |
 |---|---|---|---|---|---|---|---|
-| 15 Nov | Product: Korean/TOPIK Notion planner | Korean/TOPIK learners | see Product research | Etsy + Reddit, sample 18-19 Nov | 0 | 0 | candidate |
-| 15 Nov | Product: binki premium features | ? | paid features undefined | revisit later | 0 | 0 | parked |
-| 15 Nov | Content A: Korean-learning journey | learners | none yet | 3 outlines + 1 rough sample | 0 | 0 | candidate |
-| 15 Nov | Content B: AI character | students/K-culture | none yet | 3 outlines + 1 rough sample | 0 | 0 | candidate (debatable) |
-| 15 Nov | Content: scrape/repost trending videos | - | copyright/reused-content policy | - | 0 | 0 | rejected |
+| 15 Nov | Korean/TOPIK Notion planner | learners | Etsy: low activity, low income | - | 0 | 0 | dropped 18 Nov |
+| 15 Nov | Content: Korean-learning journey, AI character | learners | none | - | 0 | 0 | dropped 18 Nov |
+| 15 Nov | Binki premium features | ? | paid features undefined | revisit later | 0 | 0 | parked |
+| 17 Nov | Fixed-price dev work for logistics SMEs | warehouse/logistics owners | hypotheses only | outreach, 10 conversations | 0 | 0 | main engine |
+| 17 Nov | Website + automation with care plan | small businesses | unverified prices | finish offer draft | 0 | 0 | entry offer |
+| 17 Nov | Idle/incremental game | idle-game players | none | 3-4 week prototype, day-7 retention | 0 | 0 | lottery ticket |
+| 17 Nov | Ad-funded apps and web tools | consumers | EUR 0.50-3 per 1,000 impressions | 3 apps, 1 month | 0 | 0 | side experiment |
+| 17 Nov | Starter kits (hardened self-hosting) | self-hosters | none | - | 0 | 0 | parked |
+| 17 Nov | Well-being check-in app | families | similar apps exist | - | 0 | 0 | parked |
+| 17 Nov | MMO / Idleon-style game | players | none | - | 0 | 0 | parked |
